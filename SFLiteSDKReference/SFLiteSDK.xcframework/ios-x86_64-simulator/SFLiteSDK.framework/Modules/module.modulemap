@@ -1,0 +1,11 @@
+framework module SFLiteSDK {
+  umbrella header "SFLiteSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module SFLiteSDK.Swift {
+    header "SFLiteSDK-Swift.h"
+    requires objc
+}
