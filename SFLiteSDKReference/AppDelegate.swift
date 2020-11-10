@@ -25,7 +25,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         beaconManager.start()
         // This should be replaced with a validated email address of the user running this app
         beaconManager.email = "test@test.com"
-        beaconManager.mode = "on" // Change to "auto" after you are done testing
+        beaconManager.mode = "on" // Change to "auto" after you are done testing. Auto will turn on tracking when 3+ beacons are visible
+
+        // In order to set the beacon associated with this app installation, you need to
+        // detect a beacon first, then you can call the method below. An example of how
+        // to do this is shown in ViewController.swift
+        // beaconManager.setAssociatedBeacon(...)
+
         NSLog("SFLiteSDK version is %@", beaconManager.version)
         
         return true

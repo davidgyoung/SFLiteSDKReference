@@ -6,39 +6,39 @@
 	<dict>
 		<key>Headers/SFLiteSDK-Swift.h</key>
 		<data>
-		/Fkb1wWJCTvD9KYnvJhpWpCDjm8=
+		2YE8ImCvYL86LrKKPeJpAnChgPs=
 		</data>
 		<key>Headers/SFLiteSDK.h</key>
 		<data>
-		NIlH2Y0xip7d3BhDpDBcxrDBUiE=
+		6k9FY3Votr72iWP6InQtO7uar7E=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		OL7iNnh1WaODUSJglV7WRSKNW4I=
+		ZsqHBpqOdfbqurLaJg+lS8MCRbQ=
 		</data>
 		<key>Modules/SFLiteSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		r7lJqYjEcfuqa1UPIHsUf+UYAho=
+		NK8KZg8b7tpQoeaHdKCvsgYlQpI=
 		</data>
 		<key>Modules/SFLiteSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		sbapLzzy4KSaNIDeX3qjnhSebNA=
+		rMKN1XAI5B2ojdSRhuf6ab/r43k=
 		</data>
 		<key>Modules/SFLiteSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2WvQbEOdyqndN9cNPJXXynR1LnE=
+		l71jq1MwFq26DJMlAC4LqVPRPl0=
 		</data>
 		<key>Modules/SFLiteSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		r7lJqYjEcfuqa1UPIHsUf+UYAho=
+		NK8KZg8b7tpQoeaHdKCvsgYlQpI=
 		</data>
 		<key>Modules/SFLiteSDK.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		sbapLzzy4KSaNIDeX3qjnhSebNA=
+		rMKN1XAI5B2ojdSRhuf6ab/r43k=
 		</data>
 		<key>Modules/SFLiteSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		2WvQbEOdyqndN9cNPJXXynR1LnE=
+		l71jq1MwFq26DJMlAC4LqVPRPl0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,56 +51,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uh9XPSD8Oz6MaeL1MgCjMlYrWj8Xck9RTgDhQNzRO6c=
+			T3IqUqvw8OR99SgLN2NyO3KgAf3uy13oy6CvNaRjLM4=
 			</data>
 		</dict>
 		<key>Headers/SFLiteSDK.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5TrVPk+VdxMh1jRpo/qKychDL2C5ADG7IkAPyEKbrwE=
+			dBu9xl8pJpcewBS6wfvrUMtFS83wRF+vdPjCenjHI8s=
 			</data>
 		</dict>
 		<key>Modules/SFLiteSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eZKOGFIJn+VQIU1y8C0eRwoApCkc+uIZFLadeM5befo=
+			FiZUZArM/gvPmNFlFZU6Z5SuB2GVg5i8UuQBBYNRSCY=
 			</data>
 		</dict>
 		<key>Modules/SFLiteSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uhhTpBExKFqvrEaMeELUAVE+3Z30EqZSZdqej8RGecQ=
+			+PzPTJNj0UazMynPw/F8IGvIv/7hEmv2LGzyWyew/Rk=
 			</data>
 		</dict>
 		<key>Modules/SFLiteSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NWRXYhd6UUrlwT0k2i3dzrV1oNYi88bFi3gprEZ4f3A=
+			c9BPzlIxF3yQYMu4SjUlijPdT2PLvQBdoeCvfiILj9k=
 			</data>
 		</dict>
 		<key>Modules/SFLiteSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eZKOGFIJn+VQIU1y8C0eRwoApCkc+uIZFLadeM5befo=
+			FiZUZArM/gvPmNFlFZU6Z5SuB2GVg5i8UuQBBYNRSCY=
 			</data>
 		</dict>
 		<key>Modules/SFLiteSDK.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uhhTpBExKFqvrEaMeELUAVE+3Z30EqZSZdqej8RGecQ=
+			+PzPTJNj0UazMynPw/F8IGvIv/7hEmv2LGzyWyew/Rk=
 			</data>
 		</dict>
 		<key>Modules/SFLiteSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NWRXYhd6UUrlwT0k2i3dzrV1oNYi88bFi3gprEZ4f3A=
+			c9BPzlIxF3yQYMu4SjUlijPdT2PLvQBdoeCvfiILj9k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

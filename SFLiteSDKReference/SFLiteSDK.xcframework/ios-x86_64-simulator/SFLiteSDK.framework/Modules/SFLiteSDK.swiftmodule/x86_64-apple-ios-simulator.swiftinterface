@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)
+// swift-compiler-version: Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)
 // swift-module-flags: -target x86_64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SFLiteSDK
 import CommonCrypto
 import CoreLocation
@@ -7,13 +7,20 @@ import Foundation
 @_exported import SFLiteSDK
 import Swift
 import UIKit
-@objc @_inheritsConvenienceInitializers public class SFBeaconManager : ObjectiveC.NSObject, CoreLocation.CLLocationManagerDelegate {
+@objc public class SFBeaconManager : ObjectiveC.NSObject, CoreLocation.CLLocationManagerDelegate {
   public static let shared: SFLiteSDK.SFBeaconManager
   public var delegate: SFLiteSDK.SFBeaconManagerDelegate?
   public var locationManager: CoreLocation.CLLocationManager {
     get
   }
   public var version: Swift.String {
+    get
+  }
+  public var associatedBeaconString: Swift.String? {
+    get
+  }
+  public func setAssociatedBeacon(_ value: CoreLocation.CLBeacon?)
+  public var visibleBeacons: [CoreLocation.CLBeacon] {
     get
   }
   public var rangedBeacons: [CoreLocation.CLBeacon] {
@@ -41,16 +48,16 @@ import UIKit
   public func start()
   @objc public func locationManager(_ manager: CoreLocation.CLLocationManager, didUpdateLocations locations: [CoreLocation.CLLocation])
   @objc public func locationManager(_ manager: CoreLocation.CLLocationManager, didRangeBeacons beacons: [CoreLocation.CLBeacon], in region: CoreLocation.CLBeaconRegion)
-  @objc deinit
   @objc override dynamic public init()
+  @objc deinit
 }
 public protocol SFBeaconManagerDelegate {
   func dataChanged()
 }
-@_hasMissingDesignatedInitializers public class TrackedBeacon {
+public class TrackedBeacon {
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class BeaconTracker : ObjectiveC.NSObject {
+@objc public class BeaconTracker : ObjectiveC.NSObject {
   public static let shared: SFLiteSDK.BeaconTracker
   public var trackedBeacons: [Swift.String : SFLiteSDK.TrackedBeacon]
   public func locationManager(_ manager: CoreLocation.CLLocationManager, didRangeBeacons beacons: [CoreLocation.CLBeacon], in region: CoreLocation.CLBeaconRegion)

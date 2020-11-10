@@ -6,39 +6,39 @@
 	<dict>
 		<key>Headers/SFLiteSDK-Swift.h</key>
 		<data>
-		/Fkb1wWJCTvD9KYnvJhpWpCDjm8=
+		2YE8ImCvYL86LrKKPeJpAnChgPs=
 		</data>
 		<key>Headers/SFLiteSDK.h</key>
 		<data>
-		NIlH2Y0xip7d3BhDpDBcxrDBUiE=
+		6k9FY3Votr72iWP6InQtO7uar7E=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		6X/bB3kSesywJj41vgbHQXXaNyo=
+		Y4Xxq+QR2ZeFi6D0bXQt24cmeGs=
 		</data>
 		<key>Modules/SFLiteSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		cY4i0br4Jioqv6+3Svf+uEAB/0I=
+		WXmZXqALYPYb7RUz5kCsGYFiDwU=
 		</data>
 		<key>Modules/SFLiteSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		2YlbSE3ivYYOC4vgg9kprwIJsds=
+		6R4moFNQqr+fVo7xCS+1YpN8XUs=
 		</data>
 		<key>Modules/SFLiteSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ZdE8H6yUp/7C+3JEJjKZ+/J70kQ=
+		4/1j71sh07aKAnKgUTHsID6L5ok=
 		</data>
 		<key>Modules/SFLiteSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		cY4i0br4Jioqv6+3Svf+uEAB/0I=
+		WXmZXqALYPYb7RUz5kCsGYFiDwU=
 		</data>
 		<key>Modules/SFLiteSDK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		2YlbSE3ivYYOC4vgg9kprwIJsds=
+		6R4moFNQqr+fVo7xCS+1YpN8XUs=
 		</data>
 		<key>Modules/SFLiteSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ZdE8H6yUp/7C+3JEJjKZ+/J70kQ=
+		4/1j71sh07aKAnKgUTHsID6L5ok=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,56 +51,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uh9XPSD8Oz6MaeL1MgCjMlYrWj8Xck9RTgDhQNzRO6c=
+			T3IqUqvw8OR99SgLN2NyO3KgAf3uy13oy6CvNaRjLM4=
 			</data>
 		</dict>
 		<key>Headers/SFLiteSDK.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5TrVPk+VdxMh1jRpo/qKychDL2C5ADG7IkAPyEKbrwE=
+			dBu9xl8pJpcewBS6wfvrUMtFS83wRF+vdPjCenjHI8s=
 			</data>
 		</dict>
 		<key>Modules/SFLiteSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k/sCBIh17iwYaEwnLa7FTGHfKB5qCO2UjnRM/K3uDIs=
+			0hFuhiHEV1JYu5dPPbPVd/s3TVDYaxrFqcIfm8xqR7g=
 			</data>
 		</dict>
 		<key>Modules/SFLiteSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bIZkfLoo1NxiDifYLgEDGwHlo0S7+EbpGohbvMYIKAM=
+			iH3YPome2rJajWeywYV9Wwg6fl7Uos32TvXVzf7MdHA=
 			</data>
 		</dict>
 		<key>Modules/SFLiteSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EBr4qU9dTglYojJfOS8RqCZxQiozPUHGQbHbSzXyRI4=
+			EarAIM8o3kCrXcb0MFmoXkP+kljVeZN/aUNm98eCfqQ=
 			</data>
 		</dict>
 		<key>Modules/SFLiteSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k/sCBIh17iwYaEwnLa7FTGHfKB5qCO2UjnRM/K3uDIs=
+			0hFuhiHEV1JYu5dPPbPVd/s3TVDYaxrFqcIfm8xqR7g=
 			</data>
 		</dict>
 		<key>Modules/SFLiteSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bIZkfLoo1NxiDifYLgEDGwHlo0S7+EbpGohbvMYIKAM=
+			iH3YPome2rJajWeywYV9Wwg6fl7Uos32TvXVzf7MdHA=
 			</data>
 		</dict>
 		<key>Modules/SFLiteSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EBr4qU9dTglYojJfOS8RqCZxQiozPUHGQbHbSzXyRI4=
+			EarAIM8o3kCrXcb0MFmoXkP+kljVeZN/aUNm98eCfqQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

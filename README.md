@@ -2,6 +2,11 @@
 
 This is a simple project showing you how to use the SFLiteSDK in your app
 
+## Changelog
+
+2020/11/10 Version 1.1 Add ability to set an associated beacon
+2020/09/10 Version 1.0
+
 ## Running the Reference App
 
 1. Using XCode 11.2+, open SFLiteSDKReference.xcproject
